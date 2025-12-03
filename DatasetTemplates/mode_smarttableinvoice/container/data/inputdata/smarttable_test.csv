@@ -1,0 +1,5 @@
+# for smarttableinvoice mode
+basic/dataName,inputdata1,custom/toy_data1,custom/sample2,sample/names,sample/ownerId
+実験1,data000.dat,toy_data1-11,0,sample001,de17c7b3f0ff5126831c2d519f481055ba466ddb62386661323xxxxx
+実験2,data001.dat,toy_data1-12,1,sample002,de17c7b3f0ff5126831c2d519f481055ba466ddb62386661323xxxxx
+実験3,data002.dat,toy_data1-13,2,sample003,de17c7b3f0ff5126831c2d519f481055ba466ddb62386661323xxxxx

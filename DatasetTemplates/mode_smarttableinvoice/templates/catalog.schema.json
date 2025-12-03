@@ -1,0 +1,112 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://rde.nims.go.jp/rde/dataset-templates/TEST_NIMS_Sample_Template_v0.0/catalog.schema.json",
+    "type": "object",
+    "required": [
+        "catalog"
+    ],
+    "description": "None",
+    "properties": {
+        "catalog": {
+            "type": "object",
+            "label": {
+                "ja": "TEST_NIMS_Sample_Template_v0.0",
+                "en": "TEST_NIMS_Sample_Template_v0.0"
+            },
+            "required": [],
+            "properties": {
+                "Dataset Title": {
+                    "label": {
+                        "ja": "Dataset Title",
+                        "en": "Dataset Title"
+                    },
+                    "type": "string"
+                },
+                "Abstract": {
+                    "label": {
+                        "ja": "Abstract",
+                        "en": "Abstract"
+                    },
+                    "type": "string",
+                    "options": {
+                        "widget": "textarea"
+                    }
+                },
+                "Data Creator": {
+                    "label": {
+                        "ja": "Data Creator",
+                        "en": "Data Creator"
+                    },
+                    "type": "string",
+                    "options": {
+                        "widget": "textarea"
+                    }
+                },
+                "Language": {
+                    "label": {
+                        "ja": "Language",
+                        "en": "Language"
+                    },
+                    "type": "string",
+                    "options": {
+                        "widget": "textarea"
+                    }
+                },
+                "Experimental Apparatus": {
+                    "label": {
+                        "ja": "Experimental Apparatus",
+                        "en": "Experimental Apparatus"
+                    },
+                    "type": "string",
+                    "options": {
+                        "widget": "textarea"
+                    }
+                },
+                "Data Distribution": {
+                    "label": {
+                        "ja": "Data Distribution",
+                        "en": "Data Distribution"
+                    },
+                    "type": "string"
+                },
+                "Raw Data Type": {
+                    "label": {
+                        "ja": "Raw Data Type",
+                        "en": "Raw Data Type"
+                    },
+                    "type": "string"
+                },
+                "Stored Data": {
+                    "label": {
+                        "ja": "Stored Data",
+                        "en": "Stored Data"
+                    },
+                    "type": "string",
+                    "options": {
+                        "widget": "textarea"
+                    }
+                },
+                "Remarks": {
+                    "label": {
+                        "ja": "Remarks",
+                        "en": "Remarks"
+                    },
+                    "type": "string",
+                    "options": {
+                        "widget": "textarea"
+                    }
+                },
+                "References": {
+                    "label": {
+                        "ja": "References",
+                        "en": "References"
+                    },
+                    "type": "string",
+                    "options": {
+                        "widget": "textarea"
+                    }
+                }
+            }
+        }
+    }
+}

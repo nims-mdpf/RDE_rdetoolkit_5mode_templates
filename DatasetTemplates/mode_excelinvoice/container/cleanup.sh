@@ -1,0 +1,13 @@
+rm -rf data/main_image/
+rm -rf data/other_image/
+rm -rf data/structured/
+rm -rf data/thumbnail/
+rm -rf data/raw/
+rm -rf data/nonshared_raw/
+rm -rf data/meta/
+rm -f data/job.failed
+rm -rf data/divided/
+rm -rf data/temp/
+rm -rf data/attachment
+rm -rf data/logs
+rm -rf data/invoice_patch

@@ -1,0 +1,3 @@
+system:
+  extended_mode: MultiDataTile
+  magic_variable: true

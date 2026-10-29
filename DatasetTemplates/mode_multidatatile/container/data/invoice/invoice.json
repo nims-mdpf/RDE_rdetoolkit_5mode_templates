@@ -3,7 +3,7 @@
     "basic": {
         "dateSubmitted": "",
         "dataOwnerId": "7e4792d1a8440bcfa08925d35e9d92b234a963449f03df44123xxxxx",
-        "dataName": "${filename}",
+        "dataName": "data000.dat",
         "instrumentId": null,
         "experimentId": null,
         "description": null

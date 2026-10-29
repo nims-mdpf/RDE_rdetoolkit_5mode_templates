@@ -3,19 +3,21 @@
     "basic": {
         "dateSubmitted": "",
         "dataOwnerId": "119cae3d3612df5f6cf7085fb8deaa2d1b85ce963536323462xxxxxx",
-        "dataName": null,
+        "dataName": "data0",
         "instrumentId": null,
         "experimentId": null,
         "description": null
     },
     "custom": {
-        "toy_data1": null,
+        "toy_data1": "toydata1.data0",
         "toy_data2": null,
-        "sample2": null
+        "sample2": 0
     },
     "sample": {
         "sampleId": null,
-        "names": [],
+        "names": [
+            "試料0"
+        ],
         "composition": null,
         "referenceUrl": null,
         "description": null,
